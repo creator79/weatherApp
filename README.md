@@ -16,7 +16,7 @@
 A website which is a product page of a Bank displaying its products features, clients , feedbacks and many more.
 Use your Own API Key you will find in API Section after signing in [OpenWeatherAPI](https://openweathermap.org/)
 
-### The project is hosted on Vercel : [Omi's Weather App](https://weather-app-one-khaki.vercel.app/)
+### The project is hosted on Vercel : [Weather App]()
 
 ## :star: Give A Star
 
@@ -36,7 +36,7 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Weather-App.git
+  git clone https://github.com/creator79/weatherApp.git
 
 ```
 
@@ -77,14 +77,13 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfolio-jade-gamma-13.vercel.app/)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/creator79)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/vivekupadhyay-/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=devto" />](https://vivekdev.vercel.app/)
 
 ## 🗒️ Authors
 
-- Om Patel
+- 🌍 Vivek Upadhyay 🌍
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -100,6 +99,4 @@ Specializations:
 - [Tailwind Docs](https://tailwindcss.com/docs/installation)
 - [React Docs](https://react.dev/)
 
-<p align="center">
-  <img src="https://github.com/omunite215/Weather-App/assets/78680563/5b77b1c8-a79f-47ef-a421-4cecb51153a8" alt="Om's Logo Image"/>
-</p>
+
